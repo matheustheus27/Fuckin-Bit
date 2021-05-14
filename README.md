@@ -1,5 +1,6 @@
 # Fuckin-Bit
-MVP de um jogo desenvolvido para treinamento na Commit Jr 
+MVP de um jogo desenvolvido para treinamento na Commit Jr
+A ideia central consiste em um jogo no estilo Shoot 'em up em estilo pixelizado onde o jogador deverá derrotar diversos inimigos presentes no cenário para que conclua a fase.
 
 ## Screenahots:
 
